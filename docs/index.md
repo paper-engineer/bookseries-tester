@@ -1,0 +1,4 @@
+---
+layout: default
+---
+lorem ipsum
