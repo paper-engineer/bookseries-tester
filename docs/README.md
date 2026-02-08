@@ -2,6 +2,8 @@ this is the test website, do not edit further
 
 so far I haven't managed a successful build pulling in just the leftpane
 
+delete leftpane and we'll try to make dynamic work in the sidebar?
+
 ---
 
 # Minimal Mistakes remote theme starter
