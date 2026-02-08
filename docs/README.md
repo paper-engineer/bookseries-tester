@@ -1,5 +1,7 @@
 this is the test website, do not edit further
 
+so far I haven't managed a successful build pulling in just the leftpane
+
 ---
 
 # Minimal Mistakes remote theme starter
