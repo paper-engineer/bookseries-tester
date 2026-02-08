@@ -8,6 +8,8 @@ bad scss will also break a build. knocked that out, it deploys, collection subfi
 
 leftpane has been made experimental. it will either knock it out or not. 
 
+well, it builds. the next step is just to make collections actually work. 
+
 ---
 
 # Minimal Mistakes remote theme starter
