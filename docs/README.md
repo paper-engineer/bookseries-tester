@@ -8,7 +8,7 @@ bad scss will also break a build. knocked that out, it deploys, collection subfi
 
 leftpane has been made experimental. it will either knock it out or not. 
 
-well, it builds. the next step is just to make collections actually work. 
+well, it builds. the next step is just to make collections actually work. it's not currently reading any pages in the subfolders as existing. could be because the front matter is wrong (being copied pages), could be the subfolders. 
 
 pretty sure it's "broken but builds", with the author-if-whatever things. that's better than nothing. 
 
