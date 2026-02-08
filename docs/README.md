@@ -4,7 +4,7 @@ so far I haven't managed a successful build pulling in just the leftpane
 
 delete leftpane and we'll try to make dynamic work in the sidebar?
 
-bad scss will also break a build
+bad scss will also break a build. knocked that out, it deploys, collection subfiles don't show automatically what?
 
 ---
 
