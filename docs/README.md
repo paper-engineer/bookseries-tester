@@ -6,6 +6,8 @@ delete leftpane and we'll try to make dynamic work in the sidebar?
 
 bad scss will also break a build. knocked that out, it deploys, collection subfiles don't show automatically what?
 
+leftpane has been made experimental. it will either knock it out or not. 
+
 ---
 
 # Minimal Mistakes remote theme starter
