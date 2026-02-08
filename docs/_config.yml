@@ -118,7 +118,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: truedefaults:
+      author_profile: true
   # _v1 collection
   - scope:
       path: ""
